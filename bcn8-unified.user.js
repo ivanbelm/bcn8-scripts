@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         BCN8 Cargas + Pre-asignación Camiones + Parkings
 // @namespace    amazon-bcn8
-// @version      2.9.1
+// @version      2.9.3
+// @updateURL    https://raw.githubusercontent.com/ivanbelm/bcn8-scripts/main/bcn8-unified.user.js
+// @downloadURL  https://raw.githubusercontent.com/ivanbelm/bcn8-scripts/main/bcn8-unified.user.js
 // @description  Dashboard cargas + parkings + pre-asignacion con AUTO-REFRESH (STEM, Yard, Sesame). Configurable por panel.
 // @match        https://stem-eu.corp.amazon.com/node/BCN8/*
 // @match        https://stem-eu.corp.amazon.com/*/BCN8/*
