@@ -2,8 +2,8 @@
 // @name         BCN8 Inbound Pre-asignación (Sesame + Socrates)
 // @namespace    amazon-bcn8-inbound
 // @version      1.9.0
-// @updateURL    https://raw.githubusercontent.com/ivanbelm/bcn8-scripts/master/bcn8-inbound.user.js
-// @downloadURL  https://raw.githubusercontent.com/ivanbelm/bcn8-scripts/master/bcn8-inbound.user.js
+// @updateURL    https://raw.githubusercontent.com/ivanbelm/bcn8-scripts/main/bcn8-inbound.user.js
+// @downloadURL  https://raw.githubusercontent.com/ivanbelm/bcn8-scripts/main/bcn8-inbound.user.js
 // @description  Pre-asignacion Inbound: umbrales configurables, TransfersTote fix, fallback 300b, scroll mejorado.
 // @match        https://trans-logistics-eu.amazon.com/yms/sesameGateConsole*
 // @match        https://trans-logistics-eu.amazon.com/yms/shipclerk*
